@@ -57,12 +57,7 @@ function App() {
   ];
 
   const handleDownload = () => {
-<<<<<<< HEAD
-    // In a real app, this would trigger the actual APK download
-    alert('APK download would start here. Wait');
-=======
     window.location.href = '/maintenance.html';
->>>>>>> 596bf3f (Redirect APK download to maintenance page; add maintenance.html)
   };
 
   return (
