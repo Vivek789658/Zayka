@@ -58,7 +58,7 @@ function App() {
 
   const handleDownload = () => {
     // In a real app, this would trigger the actual APK download
-    alert('APK download would start here. Please implement the actual download logic.');
+    alert('APK download would start here. Wait');
   };
 
   return (
